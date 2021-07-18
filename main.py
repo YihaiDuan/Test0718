@@ -6,3 +6,4 @@ import a
 import b
 import master
 import test
+import c
