@@ -7,3 +7,4 @@ import b
 import master
 import test
 import c
+import fecth
